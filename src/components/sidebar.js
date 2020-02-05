@@ -13,21 +13,30 @@ const Sidebar = ({ siteMetadata }) => (
               <img src={Logo} alt={siteMetadata.author} />
             </Link>
           </div>
-          <div className="author-name">{siteMetadata.author}</div>
+          <div className="author-name">
+            <a
+              href="https://www.instagram.com/thais.giovannaa/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Instagram pessoal"
+            >
+              {siteMetadata.author}
+            </a>
+          </div>
           <p>{siteMetadata.description}</p>
         </div>
       </header>
       <footer>
         <section className="contact">
-          <h3 className="contact-title">Contact me</h3>
+          <h3 className="contact-title">Minhas redes</h3>
           <ul>
             {siteMetadata.social.twitter && (
               <li>
                 <a
-                  href={`https://twitter.com/${siteMetadata.social.twitter}`}
+                  href={`https://instagram.com/${siteMetadata.social.twitter}`}
                   target="_blank"
                 >
-                  <i className="fa fa-twitter" aria-hidden="true" />
+                  <i className="fa fa-instagram" aria-hidden="true" />
                 </a>
               </li>
             )}
@@ -44,14 +53,14 @@ const Sidebar = ({ siteMetadata }) => (
             {siteMetadata.social.github && (
               <li>
                 <a
-                  href={`https://github.com/${siteMetadata.social.github}`}
+                  href={`https://br.pinterest.com/${siteMetadata.social.github}`}
                   target="_blank"
                 >
-                  <i className="fa fa-github" aria-hidden="true" />
+                  <i className="fa fa-pinterest" aria-hidden="true" />
                 </a>
               </li>
             )}
-            {siteMetadata.social.linkedin && (
+            {/* {siteMetadata.social.linkedin && (
               <li>
                 <a
                   href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}
@@ -60,7 +69,7 @@ const Sidebar = ({ siteMetadata }) => (
                   <i className="fa fa-linkedin" aria-hidden="true" />
                 </a>
               </li>
-            )}
+            )} */}
             {siteMetadata.social.email && (
               <li>
                 <a href={`mailto:${siteMetadata.social.email}`} target="_blank">

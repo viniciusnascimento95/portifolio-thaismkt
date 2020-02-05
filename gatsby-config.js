@@ -1,15 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    title: `Thaís MkTranças`,
+    description: `Hello 👋🏻
+    Me chamo Thaís Giovana. Nascida em Porto Velho- Rondônia;
+    Formada em Estética e Imagem Pessoal;
+    Atuando na área do embelezamento há aproximadamente 4 anos;
+    Trabalho com todos os tipos de tranças, e maquiagem da clássica a artística..`,
+    author: `Thais Giovanna`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
-      twitter: `wang0nya`,
+      twitter: `thaismketrancas`,
       facebook: ``,
-      github: `wangonya`,
+      github: `tatagiovanna12`,
       linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      email: `geovana_18pvh@hotmail.com`,
     },
   },
   plugins: [
