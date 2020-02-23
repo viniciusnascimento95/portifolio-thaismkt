@@ -2,7 +2,7 @@
 title: Trança nagô desenhada
 date: 2019-09-12
 description: # Add post description (optional)
-img: ./tranca.jpeg # Add image post (optional)
+img: ./tranca1-capa.jpg # Add image post (optional)
 tags: [Tranças, Estilo]
 ---
 
@@ -11,7 +11,7 @@ Podendo utilizar com coque ou solto e colocação de acessórios. Ótima duraç�
 
 ## Plaid ramps kitsch woke pork belly
 
-![I and My friends](./we-in-rest.jpg)
+![I and My friends](./tranca1-capa.jpg)
 
 celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
 
