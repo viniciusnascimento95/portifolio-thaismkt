@@ -3,7 +3,7 @@ title: Trança nagô desenhada
 date: 2020-02-23
 description: # Add post description (optional)
 img: ./tranca1-capa.jpg # Add image post (optional)
-# tags: [braids braidstyle trança girl makeup maquiagem neonvibes empoderamento sunset girlpower negraslindas trancadas trancascomfio nagô ]
+tags: [braids, Nagô ]
 ---
 
 Ótima opção para diversas ocasiões como casamento, aniversário, carnaval, rolê com os amigos.

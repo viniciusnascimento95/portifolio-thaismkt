@@ -1,9 +1,9 @@
 ---
 title: Makes artísticas 
-date: 2020-02-23 00:00:00 +0300
+date: 2020-02-22 00:00:00 +0300
 description: # Add post description (optional)
 img: ./make-post4-capa.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Make] # add tag
 ---
 
 A make artística foi e é uma das artes que mais chama a atenção. Muito requisitada em festas temáticas e halloween, a criatividade rola solta das mais princesas às mais assombrosas 💕

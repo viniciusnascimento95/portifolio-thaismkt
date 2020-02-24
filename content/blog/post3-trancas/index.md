@@ -1,9 +1,9 @@
 ---
-title: Trança com anéis
+title: Trança com fios
 date: 2020-02-23 00:00:00 +0300
 description: # Add post description (optional)
 img: ./traca3-capa3.jpg # Add image post (optional)
-# tags: [Tranças, Anéis] # add tag
+tags: [Tranças, Fios] # add tag
 ---
 
 As queridinhas do momento chegou! Tendência e novidade no mundo das trancistas. Fio encerado e fio de seda dão todo um charme, dos neons às cores sólidas, está virando febre entre as clientes 💕
