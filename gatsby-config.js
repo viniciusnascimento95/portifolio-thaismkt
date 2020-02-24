@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
       twitter: `thaismketrancas`,
-      facebook: ``,
+      facebook: `Tha%C3%ADs-Giovana-Makeup-e-Tran%C3%A7as-103466267919559`,
       github: `tatagiovanna12`,
       linkedin: `wangonya`,
       email: `geovana_18pvh@hotmail.com`,
